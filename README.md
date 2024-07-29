@@ -1,7 +1,5 @@
 ![Github Titlebanner](https://github.com/danielmrrk/movemore/blob/main/assets/move-more-display.png)
 
-# movemore
-
 # Move More Microworkouts
 
 <p align="left">
