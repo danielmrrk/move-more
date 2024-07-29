@@ -14,7 +14,6 @@ Welcome to Move More Microworkouts! This project is designed to encourage fitnes
 
 - [Top App Features](#top-app-features)
 - [App Roadmap](#app-roadmap)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 
 ## Top App Features
