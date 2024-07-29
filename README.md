@@ -41,4 +41,5 @@ Welcome to Move More Microworkouts! This project is designed to encourage fitnes
 
 ## Installation
 
-Regrettably, the service is currently unavailable as we have taken down the backend system.
+Regrettably, the service is currently unavailable as we have taken down the backend system. 
+As well for security reasons I had to delete the complete commit history and some files.
